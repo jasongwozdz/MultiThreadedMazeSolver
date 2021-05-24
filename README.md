@@ -1,4 +1,7 @@
 # MultiThreadedMazeSolver
+Final project for CSC412
+
+![alt text](https://github.com/jsngwd/MultiThreadedMazeSolver/blob/master/maze.JPG?raw=true)
 
 Requires freeglut.  Download from here http://freeglut.sourceforge.net/
 
